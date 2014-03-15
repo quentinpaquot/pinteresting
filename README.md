@@ -3,7 +3,7 @@
 This is the pinteresting sample application for 
 [*One Month Rails*] (http://onemonthrails.com)
 
-By [Quentin Paquot] (http://www.quentinpaquot.com)
+By [Quentin Paquot] (http://www.quentinpaquot.com target="blank")
 
 I'm now testing to update README. but I feel a bit lost in this Sublime Text 2.
 
